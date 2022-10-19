@@ -48,7 +48,7 @@
   <img align="center" src="https://img.shields.io/badge/-robsoniick-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/robsoniick/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-robsoniick-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-robsoniickk-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://www.youtube.com/channel/UCMHRNsVOzTU9KB0nD1aOSug" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-robsoniick-05122A?style=flat&logo=youtube" alt="youtube"/>
